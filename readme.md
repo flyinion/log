@@ -1,4 +1,6 @@
-# Header only Logging Library
+# Lightweight Header only Logging Library
+
+Forked from https://github.com/ragnarula/logger.
 
 This is a header only lightweight logging library implemented using code from http://www.drdobbs.com/cpp/a-lightweight-logger-for-c/240147505 with some modifications.
 
